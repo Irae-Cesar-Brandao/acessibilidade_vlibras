@@ -6,6 +6,7 @@ Implementação durante aulas de Microlearning 6 para fins de gração de vídeo
 orientativo para usuarios com necessidade de recursos de acessibilidade.
 Criado por: Iraê César Brandão
 Sem fins lucrativos.
+Acesso ao site do git:  https://irae-cesar-brandao.github.io/acessibilidade_vlibras/    
 
 
 EMENTA  DO CURSO
